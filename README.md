@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/azwan-azlan-74415a136/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/azwan-azlan-74415a136/">
+  <a href="https://www.instagram.com/azwan_azlan/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/awan.azlan">
