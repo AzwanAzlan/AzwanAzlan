@@ -2,7 +2,7 @@
   Hi there 👋 I'm Azwan Azlan 👨‍💻
 </h1>
 <p align='center'>
-  An automation tester intern from Cyberjaya, Malaysia.
+  A freelance web developer and an automation tester intern from Cyberjaya, Malaysia.
 </p>
 
 <p align='center'>
