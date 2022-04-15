@@ -1,6 +1,6 @@
 <p align="center">
 
 # Hi there  👋  I'm Azwan  👨‍💻
-A web developer and automation tester from Cyberjaya, Malaysia.
+An automation tester intern from Cyberjaya, Malaysia.
 
 </p>
