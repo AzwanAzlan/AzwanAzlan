@@ -2,7 +2,7 @@
   Hi there 👋 I'm Azwan Azlan 👨‍💻
 </h1>
 <p align='center'>
-  A freelance web developer and a QA automation engineer from Cyberjaya, Malaysia.
+  A freelance web developer and QA automation engineer from Cyberjaya, Malaysia.
 </p>
 
 <p align='center'>
